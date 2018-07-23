@@ -1,1 +1,2 @@
 # Introduction-to-Deep-Learning
+In this assignment, your task is to implement a convolution neural network to determine whether the person in a portrait image is wearing glasses or not. We will use the Celeb dataset which has more than 200k celebrity images in total. In this task you are to use a publicly available convolutional neural network package, train it on the Celeb images, tune hyperparameters and apply regularization to improve performance.
